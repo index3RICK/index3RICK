@@ -1,10 +1,10 @@
-## 🧠 About Me
+## <span style="color:#326273">🧠 About Me</span>
 
 **Data Analyst | Ecuador 🇪🇨**
 
 Analista de datos enfocado en transformar información en decisiones prácticas. Trabajo con limpieza, exploración y visualización para encontrar patrones reales, no solo gráficos bonitos. Me interesa especialmente el análisis exploratorio, estadísticas descriptivas y pipelines simples y reproducibles.
 
-### 🔧 Habilidades
+### <span style="color:#326273">🔧 Habilidades</span>
 - Limpieza y preparación de datos (Pandas, NumPy)
 - Análisis exploratorio (EDA)
 - Estadística descriptiva e inferencial básica
@@ -14,13 +14,13 @@ Analista de datos enfocado en transformar información en decisiones prácticas.
 - Jupyter Notebook para documentación reproducible
 - Git y GitHub para control de versiones
 
-### 🎯 En qué me enfoco
+### <span style="color:#326273">🎯 En qué me enfoco</span>
 - Entender los datos antes de modelar  
 - Detectar outliers y problemas de calidad  
 - Construir análisis claros y explicables  
 - Documentar procesos reproducibles  
 
-### 🚀 Actualmente
+### <span style="color:#326273">🚀 Actualmente</span>
 Desarrollando proyectos con datos reales, enfocados en limpieza, exploración y respuesta a preguntas concretas. Buscando mejorar en estadística aplicada, SQL avanzado y visualización efectiva.
 
 
