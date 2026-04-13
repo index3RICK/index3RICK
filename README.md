@@ -1,5 +1,27 @@
-# <span style="color:#326273">About Me</span>
-Data Analyst | Ecuador<br><br>Analista de datos enfocado en transformar información en decisiones prácticas. Trabajo con limpieza, exploración y visualización de datos para encontrar patrones reales, no solo gráficos bonitos. Me interesa especialmente el análisis exploratorio, estadísticas descriptivas y construcción de pipelines simples y reproducibles.<br><br>Habilidades<br>Limpieza y preparación de datos (Pandas, NumPy)<br>Análisis exploratorio (EDA)<br>Estadística descriptiva e inferencial básica<br>Visualización de datos (Matplotlib, Seaborn, Plotly)<br>SQL para consulta y transformación de datos<br>Python para análisis y automatización<br>Jupyter Notebook para documentación reproducible<br>Git y GitHub para control de versiones<br>En qué me enfoco<br>Entender los datos antes de modelar<br>Detectar outliers y problemas de calidad<br>Construir análisis claros y explicables<br>Documentar procesos para que otros puedan replicarlos<br>Actualmente<br><br>Me encuentro desarrollando proyectos de análisis con datos reales, enfocados en limpieza, exploración y respuesta a preguntas concretas. Busco mejorar en estadística aplicada, SQL avanzado y visualización efectiva.<br><br>Ecuador 🇪🇨
+## 🧠 About Me
+
+**Data Analyst | Ecuador 🇪🇨**
+
+Analista de datos enfocado en transformar información en decisiones prácticas. Trabajo con limpieza, exploración y visualización para encontrar patrones reales, no solo gráficos bonitos. Me interesa especialmente el análisis exploratorio, estadísticas descriptivas y pipelines simples y reproducibles.
+
+### 🔧 Habilidades
+- Limpieza y preparación de datos (Pandas, NumPy)
+- Análisis exploratorio (EDA)
+- Estadística descriptiva e inferencial básica
+- Visualización (Matplotlib, Seaborn, Plotly)
+- SQL para consulta y transformación de datos
+- Python para análisis y automatización
+- Jupyter Notebook para documentación reproducible
+- Git y GitHub para control de versiones
+
+### 🎯 En qué me enfoco
+- Entender los datos antes de modelar  
+- Detectar outliers y problemas de calidad  
+- Construir análisis claros y explicables  
+- Documentar procesos reproducibles  
+
+### 🚀 Actualmente
+Desarrollando proyectos con datos reales, enfocados en limpieza, exploración y respuesta a preguntas concretas. Buscando mejorar en estadística aplicada, SQL avanzado y visualización efectiva.
 
 
 ## 🌐 Socials:
