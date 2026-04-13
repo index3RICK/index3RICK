@@ -1,4 +1,4 @@
-## <span style="color:#326273">🧠 About Me</span>
+## <span style="color:#326273">About Me</span>
 
 **Data Analyst | Ecuador 🇪🇨**
 
@@ -14,13 +14,13 @@ Analista de datos enfocado en transformar información en decisiones prácticas.
 - Jupyter Notebook para documentación reproducible
 - Git y GitHub para control de versiones
 
-### <span style="color:#326273">🎯 En qué me enfoco</span>
+### <span style="color:#326273">En qué me enfoco</span>
 - Entender los datos antes de modelar  
 - Detectar outliers y problemas de calidad  
 - Construir análisis claros y explicables  
 - Documentar procesos reproducibles  
 
-### <span style="color:#326273">🚀 Actualmente</span>
+### <span style="color:#326273">Actualmente</span>
 Desarrollando proyectos con datos reales, enfocados en limpieza, exploración y respuesta a preguntas concretas. Buscando mejorar en estadística aplicada, SQL avanzado y visualización efectiva.
 
 
@@ -35,6 +35,5 @@ Desarrollando proyectos con datos reales, enfocados en limpieza, exploración y 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=index3RICK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=index3RICK&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
