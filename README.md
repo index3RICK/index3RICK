@@ -1,39 +1,83 @@
-## <span style="color:#326273">About Me</span>
+<p align="center">
+  <a href="https://github.com/tu-usuario">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=FFF&size=35&center=true&vCenter=true&width=1400&height=60&pause=2000&repeat=false&lines=Hola%2C+soy+Erick+Chicaiza+🇪🇨;Data+Analytics+%7C+An%C3%A1lisis+de+Datos;Python+%7C+Pandas+%7C+NumPy;Jupyter+%7C+Matplotlib;Excel+%7C+Power+BI+%7C+Dashboards;Docker+%7C+ETL+%7C+Data+Cleaning;Hola+soy+Erick+Chicaiza+-+Data+Analytics+-+ECH">
+</a>
+</p>
 
-**Data Analyst | Ecuador 🇪🇨**
+<h2>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+  Sobre mí
+</h2>
 
-Analista de datos enfocado en transformar información en decisiones prácticas. Trabajo con limpieza, exploración y visualización para encontrar patrones reales, no solo gráficos bonitos. Me interesa especialmente el análisis exploratorio, estadísticas descriptivas y pipelines simples y reproducibles.
+<img 
+  width="50%" 
+  align="right" 
+  alt="Data Analyst" 
+  src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" 
+/>
 
-### <span style="color:#326273">🔧 Habilidades</span>
-- Limpieza y preparación de datos (Pandas, NumPy)
-- Análisis exploratorio (EDA)
-- Estadística descriptiva e inferencial básica
-- Visualización (Matplotlib, Seaborn, Plotly)
-- SQL para consulta y transformación de datos
-- Python para análisis y automatización
-- Jupyter Notebook para documentación reproducible
-- Git y GitHub para control de versiones
+### 📊 Perfil
+- Enfocado en **Data Analytics** y análisis de datos reales  
+- Preparación, **Data Cleaning** y calidad de datos  
+- Aplicación de **Estadística y Probabilidad**  
 
-### <span style="color:#326273">En qué me enfoco</span>
-- Entender los datos antes de modelar  
-- Detectar outliers y problemas de calidad  
-- Construir análisis claros y explicables  
-- Documentar procesos reproducibles  
+### 🧠 Trabajo con
+- Python (Pandas, NumPy, Matplotlib)  
+- Análisis Exploratorio de Datos (**EDA**)  
+- Visualización de datos  
 
-### <span style="color:#326273">Actualmente</span>
-Desarrollando proyectos con datos reales, enfocados en limpieza, exploración y respuesta a preguntas concretas. Buscando mejorar en estadística aplicada, SQL avanzado y visualización efectiva.
+### 📈 Dashboards
+- Construcción de **Dashboards en Excel**  
+- Reportes y métricas para toma de decisiones  
+- Análisis descriptivo de datos  
 
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-chicaiza-8583b8236) 
+<p>Lenguajes</p>
+<span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=index3RICK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=index3RICK&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=index3RICK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h4>Herramientas</h4>
+<span>
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</span> 
 
----
+<h4>Bases de Datos</h4>
+<span>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</span>  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h4>Tecnologías</h4>
+<span>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</span>  
+
+<h4>Redes y Contacto</h4>
+<p>
+<a href="https://github.com/index3RICK" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="http://www.linkedin.com/in/erick-chicaiza-8583b8236" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="http://erickarms94@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<h2>
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+Estadísticas de GitHub:
+</h2>  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=index3RICK&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Erick" height="250"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=index3RICK&layout=compact&theme=tokyonight&hide_border=false" height="250"/>
+
+</div>
+
+</div>
+
+------
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h3 align="center">ECH</h3>
