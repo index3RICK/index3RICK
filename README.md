@@ -1,3 +1,4 @@
+<h1 align="center">Hola, Soy Erick Chicaiza</h1>
 <p align="center">
   <a href="https://github.com/tu-usuario">
   <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=FFF&size=35&center=true&vCenter=true&width=1400&height=60&pause=2000&repeat=false&lines=Hola%2C+soy+Erick+Chicaiza+🇪🇨;Data+Analytics+%7C+An%C3%A1lisis+de+Datos;Python+%7C+Pandas+%7C+NumPy;Jupyter+%7C+Matplotlib;Excel+%7C+Power+BI+%7C+Dashboards;Docker+%7C+ETL+%7C+Data+Cleaning;Hola+soy+Erick+Chicaiza+-+Data+Analytics+-+ECH">
