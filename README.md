@@ -1,66 +1,78 @@
-<h1 align="center">Hola, Soy Erick Chicaiza</h1>
+<h1 align="center">Hi 👋, I'm Erick</h1>
+
+<h3 align="center">
+Data Analytics • Data Engineering • Business Intelligence
+</h3>
+
 <p align="center">
-  <a href="https://github.com/tu-usuario">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=FFF&size=35&center=true&vCenter=true&width=1400&height=60&pause=2000&repeat=false&lines=Hola%2C+soy+Erick+Chicaiza+🇪🇨;Data+Analytics+%7C+An%C3%A1lisis+de+Datos;Python+%7C+Pandas+%7C+NumPy;Jupyter+%7C+Matplotlib;Excel+%7C+Power+BI+%7C+Dashboards;Docker+%7C+ETL+%7C+Data+Cleaning;Hola+soy+Erick+Chicaiza+-+Data+Analytics+-+ECH">
-</a>
+Building modern data solutions with SQL and PostgreSQL.
 </p>
 
-<h2>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
-  Sobre mí
-</h2>
+<p align="center">
 
-<img 
-  width="50%" 
-  align="right" 
-  alt="Data Analyst" 
-  src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" 
-/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-Medallion-orange)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-success)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)
+![Learning](https://img.shields.io/badge/Learning-Continuous-red)
 
-### 📊 Perfil
-- Enfocado en **Data Analytics** y análisis de datos reales  
-- Preparación, **Data Cleaning** y calidad de datos  
-- Aplicación de **Estadística y Probabilidad**  
+</p>
 
-### 🧠 Trabajo con
-- Python (Pandas, NumPy, Matplotlib)  
-- Análisis Exploratorio de Datos (**EDA**)  
-- Visualización de datos  
+---
 
-### 📈 Dashboards
-- Construcción de **Dashboards en Excel**  
-- Reportes y métricas para toma de decisiones  
-- Análisis descriptivo de datos  
+## 🚀 About Me
 
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
+I'm passionate about designing modern data solutions that transform raw data into meaningful business insights.
 
-<p>Lenguajes</p>
-<span> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</span>  
+Currently expanding my knowledge in:
 
-<h4>Herramientas</h4>
-<span>
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-</span> 
+- 🏗 Data Engineering
+- 📊 Data Analytics
+- 🏛 Data Warehousing
+- 📈 Business Intelligence
 
-<h4>Bases de Datos</h4>
-<span>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</span>  
+---
 
-<h4>Tecnologías</h4>
-<span>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-</span>  
+## 🛠 Tech Stack
 
-<h4>Redes y Contacto</h4>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,git,github"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📂 Featured Project
+
+⭐ **Modern Data Warehouse with PostgreSQL**
+
+> End-to-end Data Warehouse following the Medallion Architecture (Bronze, Silver, Gold), including ETL processes, dimensional modeling, data quality validation, and technical documentation.
+
+---
+
+## 🎯 Currently Learning
+
+- Exploratory Data Analysis (EDA)
+- Advanced Data Analytics
+- Dashboard Design
+
+---
+
+## 📫 Connect with Me
+
 <p>
 <a href="https://github.com/index3RICK" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="http://www.linkedin.com/in/erick-chicaiza-8583b8236" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="www.linkedin.com/in/erick-ch-dataanalyst" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="http://erickarms94@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
